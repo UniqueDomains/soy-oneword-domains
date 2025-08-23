@@ -1,0 +1,2 @@
+# soy-oneword-domains
+List of soy one word domain names with availability, expiration date, attractiveness, demand score.
