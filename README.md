@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .soy one-word domains from Unique 
 
 **Public extract:** 9,868 rows · **Live catalog:** 9,868 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/soy`  
 **Best for:** founders, investors, studios
 
@@ -77,12 +77,12 @@ print(df.head())
 | data.soy       | premium   | $698.10   | $698.10       | 70             | 56     | 4      | namecheap  |
 | forge.soy      | available | $24.99    | $24.99        | 62             | 45     | 5      | name.com   |
 | good.soy       | premium   | $373.75   | $373.75       | 82             | 55     | 4      | name.com   |
-| gather.soy     | available | $24.99    | $24.99        | 96             | 38     | 6      | name.com   |
-| alpha.soy      | premium   | $373.75   | $373.75       | 90             | 54     | 5      | name.com   |
-| conscious.soy  | available | $24.99    | $24.99        | 89             | 38     | 9      | name.com   |
+| gather.soy     | available | $24.99    | $24.99        | 96             | 39     | 6      | name.com   |
 | zero.soy       | premium   | $373.75   | $373.75       | 112            | 53     | 4      | name.com   |
-| unify.soy      | available | $24.99    | $24.99        | 72             | 38     | 5      | name.com   |
+| conscious.soy  | available | $24.99    | $24.99        | 89             | 38     | 9      | name.com   |
 | business.soy   | premium   | $698.10   | $698.10       | 100            | 53     | 8      | namecheap  |
+| unify.soy      | available | $24.99    | $24.99        | 72             | 38     | 5      | name.com   |
+| alpha.soy      | premium   | $373.75   | $373.75       | 90             | 53     | 5      | name.com   |
 | cozy.soy       | available | $24.99    | $24.99        | 110            | 37     | 4      | name.com   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
