@@ -70,12 +70,12 @@ print(df.head())
 | seventeen.soy  | available | $24.99    | $24.99        | 84             | 62     | 9      | name.com   |
 | power.soy      | premium   | $418.60   | $418.60       | 98             | 62     | 5      | namecheap  |
 | ace.soy        | available | $24.99    | $24.99        | 88             | 57     | 3      | name.com   |
-| free.soy       | premium   | $198.75   | $198.75       | 88             | 59     | 4      | name.com   |
+| free.soy       | premium   | $198.75   | $198.75       | 88             | 57     | 4      | name.com   |
 | athletics.soy  | available | $39.98    | —             | 69             | 52     | 9      | namecheap  |
 | live.soy       | premium   | $623.75   | $623.75       | 108            | 56     | 4      | name.com   |
 | snap.soy       | available | $24.99    | $24.99        | 90             | 46     | 4      | name.com   |
 | data.soy       | premium   | $698.10   | $698.10       | 70             | 56     | 4      | namecheap  |
-| forge.soy      | available | $24.99    | $24.99        | 62             | 45     | 5      | name.com   |
+| forge.soy      | available | $24.99    | $24.99        | 62             | 44     | 5      | name.com   |
 | good.soy       | premium   | $373.75   | $373.75       | 82             | 55     | 4      | name.com   |
 | gather.soy     | available | $24.99    | $24.99        | 96             | 39     | 6      | name.com   |
 | zero.soy       | premium   | $373.75   | $373.75       | 112            | 53     | 4      | name.com   |
