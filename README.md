@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .soy one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,854 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $45.67 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/soy`  
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,12 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| Acup.soy         | premium   | —         | —             | 80             | 5      | 5      | —         |
+| geton.soy        | available | $24.99    | —             | 82             | 10     | 6      | name.com  |
+| Apples.soy       | premium   | —         | —             | 90             | 16     | 6      | —         |
+| gearup.soy       | available | $24.99    | —             | 80             | 16     | 7      | name.com  |
+| playin.soy       | available | $24.99    | —             | 80             | 10     | 7      | name.com  |
+| dogsick.soy      | available | $24.99    | —             | 90             | 1      | 7      | name.com  |
 | donuts.soy       | available | $24.99    | —             | 54             | 62     | 6      | name.com  |
 | online.soy       | premium   | $623.75   | —             | 70             | 62     | 7      | name.com  |
 | spaces.soy       | available | $24.99    | —             | 54             | 30     | 6      | name.com  |
@@ -78,12 +84,6 @@ print(df.head())
 | tickets.soy      | premium   | $373.75   | —             | 64             | 34     | 7      | name.com  |
 | distributed.soy  | available | $24.99    | —             | 64             | 21     | 11     | name.com  |
 | spectra.soy      | premium   | $48.75    | —             | 62             | 34     | 7      | name.com  |
-| smartest.soy     | available | $24.99    | —             | 64             | 20     | 8      | name.com  |
-| etc.soy          | premium   | $373.75   | —             | 58             | 34     | 3      | name.com  |
-| workers.soy      | available | $24.99    | —             | 60             | 20     | 7      | name.com  |
-| payments.soy     | premium   | $48.75    | —             | 58             | 33     | 8      | name.com  |
-| managed.soy      | available | $24.99    | —             | 58             | 20     | 7      | name.com  |
-| letsgo.soy       | premium   | $48.75    | —             | 57             | 31     | 7      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 12,854 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 12,854 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set is entirely made up of one-word .soy domains, including examples like Acup.soy, Trex.soy, WiFi.soy, finals.soy, jewels.soy, and forces.soy. The median ask is 45.67, which points to low upfront pricing, but price alone should not drive the decision. When comparing these domains, focus on whether the word is easy to recall, easy to say, and broad enough to support a real brand or resale thesis. Pay close attention to trademark exposure in names such as Chanel.soy, WiFi.soy, and Apples.soy. In a niche TLD like .soy, clean wording and legal clarity matter more than novelty.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Median ask is 45.67 across 12,854 .soy domains
+- One-word structure supports faster comparison
+- Trademark risk is higher in names tied to known brands
+- Prioritize clear, memorable words over novelty
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
