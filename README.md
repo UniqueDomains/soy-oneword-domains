@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .soy one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,854 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $45.67 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,854 domains · **Median ask:** $55.34 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/soy`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/soy`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .SOY one-word domain c
 
 ### Files
 
-- `soy.csv` — public CSV extract (1,000 rows)
-- `soy.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `soy.csv`, public CSV extract (1,000 rows)
+- `soy.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| Acup.soy         | premium   | —         | —             | 80             | 5      | 5      | —         |
-| geton.soy        | available | $24.99    | —             | 82             | 10     | 6      | name.com  |
-| Apples.soy       | premium   | —         | —             | 90             | 16     | 6      | —         |
-| gearup.soy       | available | $24.99    | —             | 80             | 16     | 7      | name.com  |
-| playin.soy       | available | $24.99    | —             | 80             | 10     | 7      | name.com  |
-| dogsick.soy      | available | $24.99    | —             | 90             | 1      | 7      | name.com  |
-| donuts.soy       | available | $24.99    | —             | 54             | 62     | 6      | name.com  |
-| online.soy       | premium   | $623.75   | —             | 70             | 62     | 7      | name.com  |
-| spaces.soy       | available | $24.99    | —             | 54             | 30     | 6      | name.com  |
-| farmers.soy      | premium   | $48.75    | —             | 54             | 59     | 7      | name.com  |
-| doctors.soy      | available | $24.99    | —             | 56             | 26     | 7      | name.com  |
-| skills.soy       | premium   | $48.75    | —             | 58             | 47     | 6      | name.com  |
-| echoes.soy       | available | $24.99    | —             | 56             | 24     | 6      | name.com  |
-| events.soy       | premium   | $373.75   | —             | 68             | 37     | 6      | name.com  |
-| deeplearning.soy | available | $24.99    | —             | 74             | 23     | 13     | name.com  |
-| stories.soy      | premium   | $98.75    | —             | 58             | 36     | 7      | name.com  |
-| veterans.soy     | available | $24.99    | —             | 56             | 23     | 8      | name.com  |
-| tickets.soy      | premium   | $373.75   | —             | 64             | 34     | 7      | name.com  |
-| distributed.soy  | available | $24.99    | —             | 64             | 21     | 11     | name.com  |
-| spectra.soy      | premium   | $48.75    | —             | 62             | 34     | 7      | name.com  |
+| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| atp.soy | available | $24.99    | —             | medium         | low    | 3      | name.com  |
+| aaa.soy | premium   | $698.10   | $698.10       | high           | medium | 3      | namecheap |
+| BJP.soy | available | $24.99    | —             | medium         | low    | 3      | name.com  |
+| ane.soy | premium   | $48.75    | $48.75        | low            | low    | 3      | name.com  |
+| cot.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| ask.soy | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| DJI.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| bro.soy | premium   | $48.75    | —             | medium         | low    | 3      | name.com  |
+| Eid.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| but.soy | premium   | $98.75    | —             | high           | low    | 3      | name.com  |
+| feb.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| day.soy | premium   | $98.75    | —             | high           | low    | 3      | name.com  |
+| gee.soy | available | $24.99    | —             | medium         | low    | 3      | name.com  |
+| eve.soy | premium   | $98.75    | —             | high           | medium | 3      | name.com  |
+| hic.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| hot.soy | premium   | $373.75   | —             | high           | low    | 3      | name.com  |
+| pup.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| mad.soy | premium   | $373.75   | —             | medium         | medium | 3      | name.com  |
+| sly.soy | available | $24.99    | $24.99        | medium         | low    | 3      | name.com  |
+| msg.soy | premium   | $198.75   | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .soy domains, including examples like Acup.soy, Trex.soy, WiFi.soy, finals.soy, jewels.soy, and forces.soy. The median ask is 45.67, which points to low upfront pricing, but price alone should not drive the decision. When comparing these domains, focus on whether the word is easy to recall, easy to say, and broad enough to support a real brand or resale thesis. Pay close attention to trademark exposure in names such as Chanel.soy, WiFi.soy, and Apples.soy. In a niche TLD like .soy, clean wording and legal clarity matter more than novelty.
+This selection includes 12,854 one-word domain names registered under the .soy extension, spanning short common words, compound phrases, and brand-style terms. The median asking price sits near $55, reflecting the broad range of names available across this niche TLD. Because .soy is a smaller extension, availability skews toward everyday vocabulary rather than premium two- and three-letter combinations, making it a candidate for founders seeking an ownable, budget-friendly one-word name and for investors tracking pricing across less mainstream TLD coverage.
 
-- Median ask is 45.67 across 12,854 .soy domains
-- One-word structure supports faster comparison
-- Trademark risk is higher in names tied to known brands
-- Prioritize clear, memorable words over novelty
+- 12,854 one-word .soy domain names in this selection
+- Median asking price near $55 across the list
+- Mix of common words, compounds, and brand-style terms
+- Some names carry trademark-adjacent risk (e.g., brand terms)
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
