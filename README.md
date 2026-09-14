@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .soy one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,428 domains · **Median ask:** $40.58 · **High-demand under $2,500:** 38
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/soy`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain  | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| atp.soy | available | $24.99    | —             | medium         | low    | 3      | name.com  |
-| aaa.soy | premium   | $698.10   | $698.10       | high           | medium | 3      | namecheap |
-| BJP.soy | available | $24.99    | —             | medium         | low    | 3      | name.com  |
-| ane.soy | premium   | $48.75    | $48.75        | low            | low    | 3      | name.com  |
-| cot.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
-| ask.soy | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
-| DJI.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
-| bro.soy | premium   | $48.75    | —             | medium         | low    | 3      | name.com  |
-| Eid.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
-| but.soy | premium   | $98.75    | —             | high           | low    | 3      | name.com  |
-| feb.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
-| day.soy | premium   | $98.75    | —             | high           | low    | 3      | name.com  |
-| gee.soy | available | $24.99    | —             | medium         | low    | 3      | name.com  |
-| eve.soy | premium   | $98.75    | —             | high           | medium | 3      | name.com  |
-| hic.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
-| hot.soy | premium   | $418.60   | $418.60       | medium         | medium | 3      | namecheap |
-| pup.soy | available | $24.99    | —             | high           | low    | 3      | name.com  |
-| mad.soy | premium   | $373.75   | —             | medium         | medium | 3      | name.com  |
-| sly.soy | available | $24.99    | $24.99        | medium         | low    | 3      | name.com  |
-| msg.soy | premium   | $198.75   | —             | high           | low    | 3      | name.com  |
+| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| okay.soy | premium   | $98.75    | $98.75        | high           | low    | 4      | name.com  |
+| atp.soy  | available | $24.99    | —             | medium         | low    | 3      | name.com  |
+| aaa.soy  | premium   | $698.10   | $698.10       | high           | medium | 3      | namecheap |
+| BJP.soy  | available | $24.99    | —             | medium         | low    | 3      | name.com  |
+| ane.soy  | premium   | $48.75    | $48.75        | low            | low    | 3      | name.com  |
+| cot.soy  | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| ask.soy  | premium   | $623.75   | —             | high           | medium | 3      | name.com  |
+| DJI.soy  | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| bro.soy  | premium   | $48.75    | —             | medium         | low    | 3      | name.com  |
+| Eid.soy  | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| but.soy  | premium   | $98.75    | —             | high           | low    | 3      | name.com  |
+| feb.soy  | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| day.soy  | premium   | $98.75    | —             | high           | low    | 3      | name.com  |
+| gee.soy  | available | $24.99    | —             | medium         | low    | 3      | name.com  |
+| eve.soy  | premium   | $98.75    | —             | high           | medium | 3      | name.com  |
+| hic.soy  | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| hot.soy  | premium   | $418.60   | $418.60       | medium         | medium | 3      | namecheap |
+| pup.soy  | available | $24.99    | —             | high           | low    | 3      | name.com  |
+| mad.soy  | premium   | $373.75   | —             | medium         | medium | 3      | name.com  |
+| sly.soy  | available | $24.99    | $24.99        | medium         | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .SOY One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
