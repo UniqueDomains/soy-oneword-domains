@@ -40,7 +40,7 @@ eb30af7b-f2bc-4465-9b9c-050a9af12754,gruntle.soy,available,24.99,24.99,medium,lo
 791b7244-46f4-4f66-bd98-720ac6fa8687,improved.soy,available,24.99,24.99,high,low,8,name.com,,,21/08/2026 23:15
 8a99eaca-f5b8-49dd-bd0a-d5f8867bf80f,cashed.soy,available,24.99,24.99,high,low,6,name.com,,,11/08/2026 20:15
 7b9a4fab-93ea-47b0-995c-491cf84452da,athanor.soy,available,28.98,39.98,medium,low,7,namecheap,,,20/09/2026 20:28
-3e0b6d12-d002-468f-b1b1-6fb52eb44e51,thirsty.soy,available,24.99,,high,low,7,name.com,,,
+3e0b6d12-d002-468f-b1b1-6fb52eb44e51,thirsty.soy,available,19.48,19.48,high,low,7,dynadot,,,28/09/2026 09:14
 51916b51-9ba5-4869-8bb5-6644ea9b071a,stone.soy,premium,418.6,418.6,high,low,5,namecheap,,,19/09/2026 11:54
 82e39e3d-8386-43df-9012-f1465398bd6d,gimpy.soy,available,24.99,24.99,medium,low,5,name.com,,,13/08/2026 07:05
 1beb3e9b-4f8d-43f7-87d4-0142d913b383,held.soy,available,24.99,24.99,high,low,4,name.com,,,21/08/2026 06:19
@@ -87,6 +87,7 @@ d1e99713-56b7-4d1f-9447-cf9733e47af5,mesic.soy,available,24.99,24.99,medium,low,
 25299a4d-4f17-4aac-97d8-eb22e54a4b3e,elephant.soy,premium,107.9,107.9,high,low,8,namecheap,,,25/09/2026 22:36
 f61e6e23-4b46-4d65-8158-e5f9b5fd2554,padua.soy,premium,164.77,164.77,medium,low,5,spaceship,,,27/09/2026 15:08
 ed167f2d-f7b7-41c3-929c-235080fbb1f7,featured.soy,available,28.98,39.98,high,low,8,namecheap,,,24/09/2026 17:26
+31e5893d-587e-4b68-aa73-cbdaf2ae6a94,musa.soy,available,18.78,18.78,high,low,4,spaceship,,,28/09/2026 05:49
 9f997b2e-be47-48a9-b11c-da722854f3fd,scentless.soy,available,28.98,39.98,medium,low,9,namecheap,,,09/09/2026 23:00
 ce3115d1-7fa8-4c22-8456-2087216fdef7,qualifier.soy,available,24.99,,high,low,9,name.com,,,
 25f07739-2589-4130-8c0b-8f1e0164a8d5,uncapped.soy,available,28.98,39.98,medium,low,8,namecheap,,,12/09/2026 04:44
@@ -102,7 +103,7 @@ e77894c1-edb3-427c-a615-af1072958db6,liberally.soy,available,24.99,24.99,medium,
 277b56c1-0802-4bf0-91af-a9a162eaeaef,undone.soy,available,28.98,39.98,medium,low,6,namecheap,,,11/09/2026 01:55
 4d114f0f-e746-42f9-ab3a-5b4994e33ee6,guess.soy,premium,53.3,53.3,high,high,5,namecheap,,,28/09/2026 03:25
 03e1697f-b7ff-4eb4-b00c-51a35b02efe1,coequal.soy,available,24.99,24.99,medium,low,7,name.com,,,12/08/2026 15:22
-36c6db37-8841-455c-96d8-dde266c85798,shorts.soy,available,28.98,39.98,high,low,6,namecheap,,,27/09/2026 02:25
+36c6db37-8841-455c-96d8-dde266c85798,shorts.soy,available,24.5,39.98,high,low,6,unstoppable,,,28/09/2026 07:26
 c8ccbdc0-17a5-4a9d-847b-6307ea365232,lange.soy,available,28.98,39.98,high,medium,5,namecheap,,,25/09/2026 04:56
 81fe022c-3cb9-4417-8fa1-9f2fcae3b6f8,cocksucker.soy,available,24.99,24.99,medium,low,10,name.com,,,08/08/2026 23:29
 0b5b7048-5de7-4743-b643-e573d6795a76,redoubled.soy,available,24.99,24.99,high,medium,9,name.com,,,09/09/2026 12:22
@@ -133,9 +134,11 @@ ee39266c-a5fe-4d01-9d67-21957c5ecebe,ternate.soy,available,28.98,39.98,medium,lo
 6fc49144-afd6-4c03-9e4b-87b0a2f72caa,barrow.soy,available,28.98,39.98,medium,low,6,namecheap,,,22/09/2026 08:41
 5e004973-2132-4e69-a962-9a1935224c50,nitrogen.soy,available,28.98,39.98,high,low,8,namecheap,,,20/09/2026 23:37
 a5ff98c6-0c6c-424f-b00d-82aff59e00af,unbent.soy,available,28.98,39.98,medium,low,6,namecheap,,,12/09/2026 01:50
+81b4b941-8995-4106-b677-570663b02417,salute.soy,available,24.5,,high,low,6,unstoppable,,,28/09/2026 06:25
 bb7f8eb9-95e2-455c-867e-45cd19c0f81c,lank.soy,available,24.99,24.99,medium,low,4,name.com,,,22/08/2026 19:32
 ffd87672-a51a-4116-988d-2898902a760c,prints.soy,premium,53.3,53.3,high,low,6,namecheap,,,17/09/2026 13:53
-36671a97-3869-4f7a-baca-db0697f0a7a4,cooking.soy,premium,107.9,107.9,high,low,7,namecheap,,,08/09/2026 08:19
+36671a97-3869-4f7a-baca-db0697f0a7a4,cooking.soy,premium,107.9,107.9,high,low,7,namecheap,,,28/09/2026 06:07
+bc85d3d5-a5db-4ec4-82ce-929399b5bc95,qualities.soy,available,24.5,,medium,low,9,unstoppable,,,28/09/2026 08:30
 a367e9f9-6798-4fd9-a197-3fe8a098b7af,anthriscus.soy,available,28.98,39.98,medium,low,10,namecheap,,,19/09/2026 13:53
 bcdd2f23-c8d1-4cc3-b710-7a80ef6209a9,ambrosia.soy,available,28.98,39.98,high,low,8,namecheap,,,18/09/2026 17:26
 39905fd5-8351-48b5-9104-89017c53a5d2,leukaemia.soy,available,28.98,39.98,medium,low,9,namecheap,,,24/09/2026 11:59
@@ -153,6 +156,7 @@ da58f18f-52c7-4f10-a86f-8fe99a2c20f9,shoes.soy,premium,418.6,418.6,high,low,5,na
 f0f5ea0c-a579-4d1e-8320-115bc548d47c,despotic.soy,available,24.99,24.99,medium,low,8,name.com,,,07/08/2026 18:58
 bf650a7b-324b-452e-97b5-3ab899c00be6,disarming.soy,available,24.99,24.99,high,low,9,name.com,,,14/08/2026 09:30
 33aa04a2-e844-4b13-a0c6-961b2c3d8039,trafalgar.soy,available,28.98,39.98,medium,low,9,namecheap,,,22/09/2026 16:10
+cba5f31e-919a-451b-a9f7-e4d5a9d8e174,disappointing.soy,available,19.48,19.48,medium,low,13,dynadot,,,28/09/2026 07:09
 704de04d-4969-4601-987a-190eac4e2f4b,smarted.soy,available,28.98,39.98,medium,low,7,namecheap,,,20/09/2026 16:41
 47487a6f-6588-43ce-a2e6-596d9011c651,trounce.soy,available,24.99,24.99,medium,low,7,name.com,,,09/08/2026 05:27
 31c56738-a1f6-4e80-8eef-54e4149ef60d,carboxylic.soy,available,24.99,24.99,medium,low,10,name.com,,,11/08/2026 18:46
@@ -166,6 +170,7 @@ bf650a7b-324b-452e-97b5-3ab899c00be6,disarming.soy,available,24.99,24.99,high,lo
 163e2d45-99c4-4f6f-8ce2-b39686bb85d8,exobiology.soy,available,28.98,39.98,medium,low,10,namecheap,,,20/09/2026 17:35
 28574688-59bf-4846-9a58-9a6db0520c4a,annum.soy,available,24.99,24.99,high,low,5,name.com,,,19/09/2026 11:04
 9d228d7c-04e2-4551-af1b-cb580ea57719,submissive.soy,available,28.98,39.98,medium,low,10,namecheap,,,11/09/2026 00:25
+63b1af21-6ca1-441b-a6fc-755836924820,convenience.soy,available,19.48,19.48,high,low,11,dynadot,,,28/09/2026 07:18
 40111ad9-68a9-4af2-b4f1-8647c8abf2f2,disguised.soy,available,24.99,24.99,medium,low,9,name.com,,,12/08/2026 11:30
 752d9d03-7913-4b4b-be11-1bd11444b9c6,booth.soy,available,28.98,39.98,high,low,5,namecheap,,,24/09/2026 07:20
 bca0465b-41d5-4c2c-9191-f8e57b6f5551,mask.soy,premium,48.75,,high,low,4,name.com,,,
@@ -173,7 +178,7 @@ a07438ce-9f65-4559-a192-92ee0da9e252,sickish.soy,available,28.98,39.98,low,low,7
 b968c2ba-0622-43fc-a849-0e8bea10e586,ruritanian.soy,available,28.98,39.98,medium,low,10,namecheap,,,09/09/2026 19:43
 3195819e-398f-4407-a3c7-d5f7a1f4dcf8,dourly.soy,available,28.98,39.98,low,low,6,namecheap,,,14/09/2026 13:56
 8b24835a-3565-4cfa-b5a4-6092ad61dcc5,hostel.soy,premium,418.6,418.6,high,low,6,namecheap,,,21/09/2026 02:25
-83afb426-e040-430c-97d5-cb1854c6bd36,wall.soy,premium,107.9,107.9,high,low,4,namecheap,,,23/09/2026 16:20
+83afb426-e040-430c-97d5-cb1854c6bd36,wall.soy,premium,107.9,107.9,high,low,4,namecheap,,,28/09/2026 08:42
 0994fbc6-f3eb-4ae5-a3f3-0e2c0812fe2c,betwixt.soy,available,28.98,39.98,medium,low,7,namecheap,,,14/09/2026 00:01
 00588e32-2fa1-414b-b03a-aafe07ac74d4,roll.soy,premium,48.75,,high,low,4,name.com,,,27/09/2026 15:56
 829d0fa5-a9c4-4fd8-8f91-ff6f64291e97,provisory.soy,available,28.98,39.98,medium,low,9,namecheap,,,09/09/2026 04:36
@@ -214,6 +219,7 @@ a9125c8d-db85-43f2-8ce4-382f8f5b417b,fasten.soy,available,24.99,,high,low,6,name
 d6c193e2-0771-4f40-a35c-41e37aef122e,caramel.soy,available,24.99,24.99,high,low,7,name.com,,,11/08/2026 18:28
 9308fe4b-b60e-49d8-b075-003fa7eea32b,premise.soy,available,28.98,39.98,high,low,7,namecheap,,,20/09/2026 16:37
 6bb1eb36-584c-4d0f-a3f8-18d31486c08a,baptisia.soy,available,28.98,39.98,medium,low,8,namecheap,,,22/09/2026 03:24
+512334c6-0df1-495b-ad72-de9b3a8d803e,bryn.soy,available,18.78,18.78,medium,low,4,spaceship,,,28/09/2026 07:45
 0903416f-075d-4afd-abc8-4dc6ea3ca61a,metrically.soy,available,28.98,39.98,medium,low,10,namecheap,,,15/09/2026 14:41
 20e2c0e9-74c4-497b-a9d7-890b81796f35,carthage.soy,available,28.98,39.98,medium,low,8,namecheap,,,25/09/2026 04:02
 4cb9770a-152b-4a56-a2c8-1541a72d67c9,tical.soy,available,28.98,39.98,medium,low,5,namecheap,,,21/09/2026 18:48
@@ -258,6 +264,7 @@ e36aa4ed-2124-4276-a475-ab6e15488baa,zapotec.soy,available,28.98,39.98,high,low,
 86ccfd52-54a7-4103-a58b-bcb76b95f6bc,ruttish.soy,available,24.99,24.99,medium,low,7,name.com,,,21/08/2026 14:10
 4ebb24f8-c336-4917-b2d8-0847a3173b8f,ancestry.soy,premium,53.3,53.3,high,medium,8,namecheap,,,08/09/2026 13:19
 8e4c0b74-608c-4dba-be19-281c583dc16b,blows.soy,available,28.98,39.98,medium,low,5,namecheap,,,25/09/2026 16:53
+2248e034-0619-4f2b-88f5-50fbb4419a10,includes.soy,premium,,,medium,low,8,,,,28/09/2026 08:22
 45b02874-a98f-498c-97cd-5c0232592b9b,weighted.soy,available,28.98,39.98,high,low,8,namecheap,,,13/09/2026 10:08
 2f0f1852-13b1-4fb8-9e11-a229539bf692,sudden.soy,available,24.5,,high,low,6,unstoppable,,,28/09/2026 01:51
 fecc20d2-c052-4bb3-88fe-b46baa83853d,unholy.soy,available,24.99,24.99,medium,low,6,name.com,,,14/08/2026 01:33
@@ -333,13 +340,12 @@ f873b5de-9562-479c-b132-11c3b33a9674,biff.soy,available,28.98,39.98,medium,low,4
 80d3158b-9425-4d35-8505-d1d2797be5df,slivery.soy,available,28.98,39.98,medium,low,7,namecheap,,,10/09/2026 11:13
 9146e123-3b30-4d8c-93ef-4a129c80d7a9,capitate.soy,available,24.99,24.99,medium,low,8,name.com,,,11/08/2026 17:57
 de31c4b0-d0a8-4f5e-b58a-b18b2ccb4dac,detected.soy,available,28.98,39.98,high,low,8,namecheap,,,24/09/2026 07:30
-77707ff6-84a6-4234-98b9-01db2ce348d7,manifest.soy,available,24.99,24.99,high,medium,8,name.com,,,06/08/2026 05:17
 be7f09fc-27f4-4a94-9e29-3109c990aed7,immutably.soy,available,24.99,24.99,medium,low,9,name.com,,,15/09/2026 02:06
 7f78ede5-464e-4374-9643-22b054bae0f8,prissy.soy,available,28.98,39.98,medium,low,6,namecheap,,,04/09/2026 21:22
 6917c5a9-d38f-4b7a-8d36-90f21c3f4613,cecilia.soy,premium,107.9,107.9,medium,low,7,namecheap,,,26/09/2026 03:37
 cf878896-e1e4-4eba-a4eb-731f7ceaba4e,cuboid.soy,available,24.99,24.99,medium,low,6,name.com,,,13/08/2026 09:58
 914a8931-f450-4cf5-9570-cc34d21c783d,anacardium.soy,available,28.98,39.98,medium,low,10,namecheap,,,19/09/2026 00:59
-e375b3d3-f115-4577-865d-4383c53d5039,agents.soy,premium,53.3,53.3,high,medium,6,namecheap,,,24/09/2026 16:49
+e375b3d3-f115-4577-865d-4383c53d5039,agents.soy,premium,40.57,40.57,high,medium,6,spaceship,,,28/09/2026 07:07
 4969eee8-aab8-4af6-a6e5-a09d9e5e3e0c,down.soy,premium,53.3,53.3,high,low,4,namecheap,,,24/09/2026 11:53
 bb575f24-8762-42f7-b05a-8791c2fa3e89,artificial.soy,available,28.98,39.98,high,low,10,namecheap,,,22/09/2026 08:57
 400b1b25-04c4-495a-85ae-638b0b7bbdcb,relocated.soy,available,28.98,39.98,medium,low,9,namecheap,,,09/09/2026 13:39
@@ -357,13 +363,15 @@ cba33f93-6c50-4246-a505-548b0a819eb8,hugh.soy,available,24.5,,high,low,4,unstopp
 9ad0bf96-0749-4869-9912-37cb840f913f,pls.soy,available,24.99,,high,low,3,name.com,,,
 a334f115-1c48-4b6c-a508-9c69231748fe,roofless.soy,available,24.99,24.99,medium,low,8,name.com,,,14/08/2026 12:09
 c6e5aa91-dddd-43b9-885c-8bd6762dda1a,lousy.soy,available,28.98,39.98,medium,low,5,namecheap,,,24/09/2026 01:33
+9be5f673-6103-4176-b6b2-2b2add44fbd5,dans.soy,available,18.2,18.2,medium,low,4,cloudflare,,,28/09/2026 04:35
 3a0e0cc3-cf81-423f-94e7-6e0f53424c7f,westwards.soy,available,28.98,39.98,medium,low,9,namecheap,,,13/09/2026 11:02
 39e0d1d1-64a3-48fc-b0b1-276fcc22698e,soberly.soy,available,28.98,39.98,medium,low,7,namecheap,,,14/09/2026 22:10
 559d711d-5757-4aa9-b99c-979e6c0c465c,testate.soy,available,28.98,39.98,medium,low,7,namecheap,,,11/09/2026 12:00
-9c2d0229-1d3d-4d93-be57-72e65cf80c73,negotiation.soy,available,28.98,39.98,high,low,11,namecheap,,,25/09/2026 19:20
+9c2d0229-1d3d-4d93-be57-72e65cf80c73,negotiation.soy,available,18.2,18.2,high,low,11,cloudflare,,,28/09/2026 07:22
 3ccbbe68-9984-406a-9d40-25e1b1bfe865,stepping.soy,available,28.98,39.98,high,low,8,namecheap,,,16/09/2026 15:33
 1c47bec1-91cb-4be9-a212-dd858abb4351,nas.soy,premium,107.9,107.9,high,medium,3,namecheap,,,25/09/2026 13:48
 7a52aa76-ef95-4b8d-9c5d-bb2d7afcf5f7,convolute.soy,available,24.99,24.99,medium,low,9,name.com,,,12/08/2026 23:57
+8f332059-01e2-4a03-a298-17c052d9db03,stacy.soy,available,18.78,18.78,high,low,5,spaceship,,,28/09/2026 07:44
 79789940-2d93-4d4e-95b8-df74c4e045d0,unaware.soy,available,24.99,24.99,medium,low,7,name.com,,,22/08/2026 01:38
 999bd26a-826e-4b8d-97d5-535c1e8ecaa0,argonon.soy,available,28.98,39.98,medium,low,7,namecheap,,,20/09/2026 04:42
 406ca8c8-ca9a-465f-a287-ab09fd9f2b5f,dash.soy,premium,43.1,43.1,high,medium,4,porkbun,,,28/09/2026 01:44
@@ -426,6 +434,7 @@ cd7f188d-1d40-4fb3-9dd5-62bf97f7985e,triumphant.soy,available,24.99,24.99,high,l
 5b8235db-c556-4ad0-a1a9-c462f74c6679,aplomb.soy,available,28.98,39.98,high,low,6,namecheap,,,19/09/2026 17:47
 db102bc4-faff-412a-9361-1b9e7620174b,ashley.soy,premium,217.1,217.1,high,low,6,namecheap,,,25/09/2026 17:12
 1ded231b-f901-4b53-bd8e-0cfe447e1656,dancer.soy,available,28.98,39.98,high,low,6,namecheap,,,11/09/2026 11:54
+4637a8ea-c5dc-4084-b71b-ebace0235540,magnum.soy,premium,86.77,86.77,high,low,6,porkbun,,,28/09/2026 06:19
 70c9d8dd-8e0e-4a7d-b750-edb7b73243ba,radius.soy,premium,39.2,,high,low,6,unstoppable,,,28/09/2026 03:00
 2a36a0f5-bc5c-418e-815a-1d9a0b568f0a,barbershop.soy,available,28.98,39.98,high,low,10,namecheap,,,22/09/2026 04:52
 3b4bcfe5-f659-4627-9bdc-43ade1e1e824,git.soy,premium,98.75,98.75,high,medium,3,name.com,,,11/08/2026 09:25
@@ -480,7 +489,7 @@ d0d94c9a-7f23-4dc4-9b25-40ca5f710fda,barony.soy,available,28.98,39.98,medium,low
 4ca3527f-d8e9-4e7d-a065-359882e46ee9,ithaca.soy,available,18.78,18.78,high,low,6,spaceship,,,27/09/2026 14:23
 6ea7c08f-39ce-4ba7-a6c3-26d1314a8c87,revenant.soy,available,28.98,39.98,high,low,8,namecheap,,,09/09/2026 12:04
 35943a76-91d5-4d83-a786-dc4369c2e23a,honey.soy,premium,98.75,98.75,high,medium,5,name.com,,,09/08/2026 13:51
-442d504c-a6c0-4488-a580-688f78db8461,task.soy,premium,107.9,107.9,high,low,4,namecheap,,,24/09/2026 03:25
+442d504c-a6c0-4488-a580-688f78db8461,task.soy,premium,86.9,86.9,high,low,4,dynadot,,,28/09/2026 06:18
 64c9c817-952b-4185-a8e2-2d1c398d0991,saharan.soy,available,28.98,39.98,high,medium,7,namecheap,,,09/09/2026 20:49
 e39b0bfa-1d83-4e3a-a98d-384c260d404e,blameless.soy,available,24.99,24.99,high,low,9,name.com,,,10/08/2026 12:53
 d4d58600-5953-4022-b05b-fb53225420c9,analyzer.soy,available,28.98,39.98,high,low,8,namecheap,,,19/09/2026 01:55
@@ -541,7 +550,7 @@ a2fe36a6-1af2-461c-b135-be61c771fbf4,moron.soy,premium,98.75,98.75,medium,low,5,
 258841fc-de23-4490-ad53-f9a51a48bb4e,blasting.soy,available,24.99,24.99,high,low,8,name.com,,,10/08/2026 13:10
 2e492da2-867e-401a-a388-5015248a7e39,tasman.soy,available,28.98,39.98,medium,low,6,namecheap,,,16/09/2026 14:58
 a52cd605-5a6c-4c7a-8b4e-b5294a11097d,rising.soy,available,24.99,24.99,high,low,6,name.com,,,
-259c2df3-b7f4-4a1b-9664-515308cdcb90,utilizing.soy,available,28.98,39.98,medium,low,9,namecheap,,,21/09/2026 02:04
+259c2df3-b7f4-4a1b-9664-515308cdcb90,utilizing.soy,available,18.2,18.2,medium,low,9,cloudflare,,,28/09/2026 07:08
 a5ed337d-8693-4032-9ffa-2dc2ebb18d40,cabins.soy,available,28.98,39.98,medium,low,6,namecheap,,,20/09/2026 12:16
 0f365cc3-2564-4c81-9574-b6bbafdd04c6,acceptable.soy,available,28.98,39.98,high,low,10,namecheap,,,21/09/2026 15:23
 fa1491e8-4bc3-4de0-bb53-87864e4bbe00,equivalent.soy,available,28.98,39.98,high,low,10,namecheap,,,24/09/2026 14:50
@@ -553,6 +562,7 @@ ac632ad0-5e05-4044-9e1d-8b1906801f3c,allocation.soy,available,28.98,39.98,high,l
 a17b6232-e72b-4161-8575-c903805537a9,ingredients.soy,premium,98.75,,medium,low,11,name.com,,,
 17335047-9549-422b-9aa7-d7b603dd29d5,orleans.soy,available,24.99,,high,low,7,name.com,,,
 2378fd6d-7e22-499c-a68a-a4468c18d413,nostril.soy,available,28.98,39.98,high,low,7,namecheap,,,19/09/2026 12:54
+867fcb38-8c40-4f20-a11a-dccbe91d5126,fade.soy,available,18.2,18.2,high,low,4,cloudflare,,,28/09/2026 05:41
 ce55ab17-1d3f-4281-b8b7-d138e28a5246,mystical.soy,available,28.98,39.98,high,low,8,namecheap,,,03/09/2026 12:24
 8064635c-99ca-4b21-a96d-6c2f8c38a10f,berkshire.soy,available,28.98,39.98,high,low,9,namecheap,,,23/09/2026 09:33
 55e03964-5190-48af-87e5-711ad9d32d10,gwen.soy,premium,42.9,42.9,high,low,4,dynadot,,,27/09/2026 19:20
@@ -578,6 +588,7 @@ c62b71d8-95a0-4bce-bcb9-32f2c5d2e12b,shoaly.soy,available,28.98,39.98,high,mediu
 63fef291-6b7a-4129-96c3-a7e62478ca40,amerind.soy,available,24.99,24.99,medium,low,7,name.com,,,
 72ce88fe-1f56-48df-87ef-b316f0c7de54,sunburst.soy,available,24.99,,high,low,8,name.com,,,
 9db1d552-60c0-41ca-9ca0-59fd630fd9ff,install.soy,premium,48.75,,high,low,7,name.com,,,
+06c5b26d-d2b4-485b-acda-12a35d1b6000,recognise.soy,available,24.5,,high,low,9,unstoppable,,,28/09/2026 06:55
 b63eaae8-5de4-403d-859a-8d987555f45f,slopped.soy,available,24.99,24.99,low,low,7,name.com,,,09/08/2026 15:45
 edc9a281-208e-4765-a75e-c0e9f31c05c0,apidae.soy,available,28.98,39.98,medium,low,6,namecheap,,,19/09/2026 17:24
 df10a8c7-a3ff-4b51-8122-244765573561,ahmad.soy,available,28.98,39.98,high,low,5,namecheap,,,27/09/2026 07:37
@@ -619,6 +630,7 @@ cfe4f186-0e86-43bb-ab59-ac97cec6ccbd,aphoristic.soy,available,24.99,24.99,medium
 1cef90b1-54db-4775-b846-d67915aa02f7,side.soy,premium,42.9,42.9,high,low,4,dynadot,,,27/09/2026 21:50
 616af0f5-623f-4c1b-9a07-9ab3874f557f,judge.soy,available,28.98,39.98,high,low,5,namecheap,,,25/09/2026 05:43
 d62bf01f-a38e-4252-841e-b024768eca8b,mazy.soy,available,24.99,24.99,medium,low,4,name.com,,,22/08/2026 17:42
+3a42e60e-18af-495d-b270-37d64f6894a4,mohamed.soy,available,18.78,18.78,medium,low,7,spaceship,,,28/09/2026 04:07
 1346e612-682e-46aa-864f-9a88c5c87224,peafowl.soy,available,28.98,39.98,high,low,7,namecheap,,,23/09/2026 20:05
 5db46f64-bf54-4133-884e-38985501e53c,taco.soy,available,24.99,,high,low,4,name.com,,,
 b7930f07-d88c-4ac3-8946-75ec6a8260c7,pinochle.soy,available,28.98,39.98,medium,low,8,namecheap,,,23/09/2026 12:19
@@ -634,7 +646,7 @@ bfb315a3-a11c-4ac2-97dd-0fa867fe8fb0,organisations.soy,available,28.98,39.98,med
 558c4ba9-16a7-45ee-8126-2fb4d03c83a5,vendible.soy,available,24.99,24.99,medium,low,8,name.com,,,24/08/2026 20:32
 e08dc1ac-5e4d-4a9c-9f03-159772f61fb8,mystery.soy,premium,53.3,53.3,high,low,7,namecheap,,,24/09/2026 15:55
 c5f254b3-4c68-4a41-82ec-15d4d946e7c8,balk.soy,available,24.99,24.99,medium,low,4,name.com,,,14/08/2026 04:55
-9e96b7a9-eef4-4983-bb8c-5f095f808e6a,graphic.soy,premium,98.75,98.75,high,low,7,name.com,,,20/08/2026 18:09
+9e96b7a9-eef4-4983-bb8c-5f095f808e6a,graphic.soy,premium,81.97,81.97,high,low,7,spaceship,,,28/09/2026 05:58
 18807d40-dcac-42b4-a5b1-425c174166a0,aerophagia.soy,available,28.98,39.98,medium,low,10,namecheap,,,17/09/2026 13:11
 4c351a14-9834-4792-8b96-25453d4c6ba5,arranged.soy,available,28.98,39.98,high,low,8,namecheap,,,22/09/2026 08:25
 a3c2a913-aa65-43ec-bd3e-b9364054999d,lightless.soy,available,24.99,24.99,medium,low,9,name.com,,,23/08/2026 04:36
@@ -686,7 +698,7 @@ f015fe83-8539-4091-b218-4d29ec3ea76a,record.soy,premium,107.9,107.9,high,low,6,n
 0f81c279-37bb-47e2-a708-d41069e7d5b3,somehow.soy,available,24.99,,high,low,7,name.com,,,
 5266ca2d-f420-4082-bf8d-63d15aa5a330,sand.soy,premium,107.9,107.9,high,low,4,namecheap,,,18/09/2026 15:40
 a68fb38e-7879-4cb5-b96e-8c75b3407a16,twilit.soy,available,24.99,24.99,medium,low,6,name.com,,,14/08/2026 21:33
-9d2df72d-fe1b-4c9e-aa19-bc1a45f5c792,room.soy,premium,217.1,217.1,high,low,4,namecheap,,,23/09/2026 08:08
+9d2df72d-fe1b-4c9e-aa19-bc1a45f5c792,room.soy,premium,174.9,174.9,high,low,4,dynadot,,,28/09/2026 06:11
 e703a1d1-e6cb-4c79-9e3e-2b57c040cb0b,foolish.soy,available,28.98,39.98,high,low,7,namecheap,,,24/09/2026 11:44
 a42cb652-182b-40cb-9a35-18370a656d8e,sudsy.soy,available,24.99,24.99,medium,low,5,name.com,,,22/08/2026 20:37
 db184303-149d-4d0b-8f5e-3d55068da2d6,abstract.soy,premium,53.3,53.3,high,low,8,namecheap,,,21/09/2026 15:10
@@ -744,6 +756,7 @@ c48c10f9-9fa3-4c39-9f8f-f5fb492f908d,doula.soy,available,28.98,39.98,high,low,5,
 3826268f-9d4c-48c0-a512-d3d631d44a13,buchanan.soy,available,18.2,18.2,high,low,8,cloudflare,,,28/09/2026 01:11
 8fa358d3-c4f2-43d2-a846-4daebb043f05,afresh.soy,available,28.98,39.98,medium,low,6,namecheap,,,13/09/2026 18:01
 6b25b2ee-5eb0-47d6-bdea-9e795bcc1da4,call.soy,premium,373.75,,high,low,4,name.com,,,
+0b9ef2f3-4c43-437f-a32d-3303292a0721,lasted.soy,available,19.48,19.48,medium,low,6,dynadot,,,28/09/2026 04:59
 66ac5a6b-985e-4910-bf11-542d8d76378e,inglorious.soy,available,24.99,24.99,medium,low,10,name.com,,,21/08/2026 18:25
 78c78276-6b51-4d4b-9bd8-e9a67e4a1ec0,hail.soy,available,28.98,39.98,high,low,4,namecheap,,,16/09/2026 22:38
 31981fb8-65ab-4d8a-8c43-e0726ce4444b,bearable.soy,available,24.99,24.99,medium,low,8,name.com,,,09/08/2026 04:27
@@ -782,7 +795,7 @@ d38252bb-7346-4957-80b3-c8c693228e18,aplitic.soy,available,24.99,24.99,medium,lo
 733996b8-5ada-44dd-9b66-458c3417ade0,baldric.soy,available,28.98,39.98,medium,low,7,namecheap,,,21/09/2026 21:45
 e0af367b-e171-4776-8259-e0f91c700a35,airborne.soy,available,24.99,24.99,high,low,8,name.com,,,
 6bd425d7-4587-4e63-837a-a18641075ae7,sizable.soy,available,24.99,24.99,high,low,7,name.com,,,20/08/2026 16:38
-5d1ae541-7ed0-4fda-9346-e7071bbd0109,electricity.soy,premium,107.9,107.9,high,low,11,namecheap,,,
+5d1ae541-7ed0-4fda-9346-e7071bbd0109,electricity.soy,premium,107.9,107.9,high,low,11,namecheap,,,28/09/2026 07:43
 1a83b546-6d8e-4252-9850-0531bca0c099,armiger.soy,available,28.98,39.98,medium,low,7,namecheap,,,20/09/2026 06:59
 0ac9cd57-6060-44a9-823f-3ca640f53409,unhinge.soy,available,28.98,39.98,medium,low,7,namecheap,,,24/09/2026 22:50
 e429b540-6bd6-40a2-8b4a-6a5befea4f79,unscalable.soy,available,28.98,39.98,medium,low,10,namecheap,,,12/09/2026 05:23
@@ -814,6 +827,8 @@ b90a2c41-4f6d-4d95-a674-05c017917d3f,staged.soy,available,28.98,39.98,high,low,6
 6c654e7a-5254-4ef6-b4a9-715f853946b1,scarlet.soy,available,24.99,24.99,high,low,7,name.com,,,10/08/2026 15:12
 4800502d-d2e2-45a6-bc2e-b8b84e8acd92,downgrade.soy,available,28.98,39.98,medium,low,9,namecheap,,,24/09/2026 23:39
 0d354444-9b8d-4607-ace4-c875fb7327d8,purulent.soy,available,28.98,39.98,high,medium,8,namecheap,,,09/09/2026 06:30
+b4895637-7d86-4de5-a8d1-a564a54006d6,suitcase.soy,available,19.05,19.05,high,low,8,porkbun,,,28/09/2026 06:48
+259ba1b1-e958-4d3e-84db-51426f7dd61d,kearney.soy,available,18.2,18.2,high,low,7,cloudflare,,,28/09/2026 04:09
 8108bc92-f731-460f-bdf3-4f335002eaae,pleasant.soy,available,28.98,39.98,high,low,8,namecheap,,,27/09/2026 04:06
 1d849ca8-7a06-4346-af9b-065ffce6a3c4,asea.soy,available,28.98,39.98,medium,low,4,namecheap,,,10/09/2026 01:04
 b6338ae7-4392-4487-a512-7337f05c943d,blackguard.soy,available,28.98,39.98,medium,low,10,namecheap,,,24/09/2026 02:20
@@ -845,6 +860,7 @@ ddf3dbf7-c0ed-4e2d-bb97-cea5990362b1,hardship.soy,available,28.98,39.98,high,low
 d85d1f51-284a-4efd-baf0-deb6670ba19c,literate.soy,available,24.99,24.99,high,low,8,name.com,,,24/08/2026 07:26
 8f6c7b61-f909-48c0-b98c-9b7d581e416e,imitator.soy,available,28.98,39.98,medium,low,8,namecheap,,,19/09/2026 16:27
 e8f264d3-3a65-47be-a95b-0cb73a116cb5,rubbed.soy,available,28.98,39.98,high,low,6,namecheap,,,17/09/2026 07:54
+833663dd-2c0b-4b25-9443-c668a032584f,thurston.soy,available,18.2,18.2,medium,low,8,cloudflare,,,28/09/2026 04:06
 6ff94c3a-bc0e-4d43-9c28-8de4b976ffd7,byzant.soy,available,28.98,39.98,medium,low,6,namecheap,,,23/09/2026 12:17
 7c3b1589-aeb8-4639-bd4c-2d5f637a1ac7,sylvia.soy,premium,53.3,53.3,high,low,6,namecheap,,,27/09/2026 19:08
 ef187d0b-1c25-4dc0-bcb3-47d985f2a777,prewar.soy,available,28.98,39.98,medium,low,6,namecheap,,,09/09/2026 01:51
@@ -953,6 +969,7 @@ bfdf8bba-7f1b-4278-9a51-15fa99e32b43,tunica.soy,available,28.98,39.98,medium,low
 7b920df5-27ae-4e6d-b471-25d8d0654a48,handbill.soy,available,24.99,24.99,medium,low,8,name.com,,,11/08/2026 05:06
 bcf8208a-608e-47b0-9bcd-12d7573a9d3c,bottomless.soy,available,24.99,24.99,high,low,10,name.com,,,10/08/2026 21:21
 91d018e5-2fa6-465a-a0b7-2dc472022a5f,bitter.soy,available,24.99,24.99,high,low,6,name.com,,,
+556b8282-6d0c-45bd-8238-9ccdc2da6be1,lasts.soy,available,24.5,,low,low,5,unstoppable,,,28/09/2026 09:03
 d916cb00-7e04-41e5-a762-2f6ba9c5379c,palmer.soy,available,28.98,39.98,high,low,6,namecheap,,,20/09/2026 08:18
 c8c7ccc0-c68f-48ab-9dc5-494df36304ea,beatles.soy,available,28.98,39.98,high,low,7,namecheap,,,22/09/2026 21:43
 23ac74dd-0bfb-4676-aa10-2401bd033bd2,maureen.soy,available,18.2,18.2,high,low,7,cloudflare,,,27/09/2026 19:11
@@ -982,20 +999,3 @@ b634fb30-3e06-4134-accb-e56d844b9dd5,arresting.soy,available,24.99,24.99,high,lo
 0746b8c0-ac73-4877-a3e1-4770df1a281d,magicians.soy,available,28.98,39.98,medium,low,9,namecheap,,,20/09/2026 20:54
 a6fe1a4d-6b25-44dd-93cb-38d4d665d081,nicholas.soy,available,18.78,18.78,high,low,8,spaceship,,,28/09/2026 02:29
 857ab6a7-bb1d-4fef-a3ad-a5e5b1e9d3b7,menacing.soy,available,24.99,24.99,medium,low,8,name.com,,,24/08/2026 19:55
-a789610e-9bd6-4534-ad2d-82fbc381a0c7,sagely.soy,available,28.98,39.98,medium,low,6,namecheap,,,16/09/2026 00:31
-f93eb15f-3b6a-4f7f-9e5c-17f2b9a1b1c7,fighter.soy,premium,48.75,48.75,medium,low,7,name.com,,,09/08/2026 13:34
-574810cf-4cf1-4615-8a00-ab478326a0e6,ballroom.soy,available,24.99,,high,low,8,name.com,,,
-87016291-417d-4e27-9cbb-5f0699815153,indirectly.soy,available,28.98,39.98,medium,low,10,namecheap,,,15/09/2026 07:58
-70954270-ee34-449f-80be-22adb64e07d4,pantie.soy,available,28.98,39.98,medium,low,6,namecheap,,,09/09/2026 22:40
-6da974b2-ee91-4c10-8b6e-0357b706b834,classical.soy,available,24.99,24.99,high,low,9,name.com,,,12/08/2026 09:42
-23fc12c9-38aa-4901-9544-93d37dea9a98,election.soy,premium,98.75,,high,low,8,name.com,,,
-728704a9-bf5e-4a20-bb23-e4991be91b6a,partners.soy,premium,98.75,,high,low,8,name.com,,,
-46e05246-2a15-4f4a-90e4-7a05f47fe6ef,larval.soy,available,24.99,24.99,medium,low,6,name.com,,,22/08/2026 20:01
-59a04683-cb81-4198-bd57-250706549713,aec.soy,available,28.98,39.98,high,low,3,namecheap,,,17/09/2026 12:04
-45a6dd03-5680-4b62-804e-436db183fc7a,purposive.soy,available,24.99,24.99,high,low,9,name.com,,,20/08/2026 15:51
-1f05460a-9a2b-4ac1-9bfd-b932b7480f15,affidavit.soy,available,24.99,,high,low,9,name.com,,,
-9b94ceb5-443a-4468-a88c-9928d20c9a01,right.soy,premium,107.9,107.9,high,low,5,namecheap,,,23/09/2026 23:38
-51aa6379-0fa3-48ee-969c-36b5d08f0a57,motherless.soy,available,24.99,24.99,medium,low,10,name.com,,,25/08/2026 07:02
-3ff72a8e-42fe-43a2-b985-cadf7c0068d3,guinness.soy,available,28.98,39.98,high,low,8,namecheap,,,18/09/2026 04:41
-9ddc9544-dad7-4cce-8eb6-d4b060230e20,bowed.soy,available,24.99,24.99,medium,low,5,name.com,,,06/08/2026 14:55
-89273b3a-a8bd-4c6c-a863-9dc4b55634fa,skin.soy,premium,98.75,,high,low,4,name.com,,,
